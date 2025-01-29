@@ -1,11 +1,25 @@
-This is a project based on Natural Language Processing(NLP). where user can give a input as pdf file and can ask queries related to the content which is present in that pdf file. Our model
-tries to answer those queries and retrieve the content related to that query. In this project, we have used a popular python framework (Flask) which is used to integrate the designing and 
-frontend part of the website
+**📜 NLP-Based Query Retrieval from PDFs**
 
-Here logo_detection_query_model.py is the python file where our NLP model is present.
+This project is a Natural Language Processing (NLP) web application that allows users to upload a PDF file and ask queries related to its content. The system processes the document, understands the context, and retrieves the most relevant text segments that answer the user's question.
 
-app1.py is the flask code, which consists of the integration of the NLP model and designing part of the project.
+**🔹 Features**
+✅ Upload a PDF file as input.
+✅ Ask queries related to the content of the uploaded document.
+✅ Retrieves the most relevant answers from the document.
+✅ Built using Flask for seamless integration between the NLP model and frontend.
 
-templates is a folder which consists of .html file. In this project we have 2 .html files one is for input reading and another is for retrieving the output.
+**🔹 Project Structure**
+📂 logo_detection_query_model.py → The NLP model that processes PDFs and retrieves relevant text.
+📂 app1.py → The Flask backend, integrating the NLP model with the website interface.
+📂 templates/ → Contains HTML files for input submission and displaying results.
+📂 static/ → Holds CSS files and assets for styling the web app.
 
-static is a folder which consists of styling part of the entire website, where you can add background images, .css file etc 
+**🔹 Technologies Used**
+
+Python (Flask, SentenceTransformers, FAISS, PyMuPDF)
+
+HTML, CSS (Frontend design)
+
+FAISS (Efficient similarity search)
+
+Sentence Transformers (all-MiniLM-L6-v2) for semantic search
