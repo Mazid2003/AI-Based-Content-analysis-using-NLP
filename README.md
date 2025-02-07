@@ -1,4 +1,4 @@
-**📜 NLP-Based Query Retrieval from PDFs**
+# 📜 NLP-Based Query Retrieval from PDFs
 
 This project is a Natural Language Processing (NLP) web application that allows users to upload a PDF file and ask queries related to its content. The system processes the document, understands the context, and retrieves the most relevant text segments that answer the user's question.
 
