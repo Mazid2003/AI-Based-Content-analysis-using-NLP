@@ -31,3 +31,8 @@ HTML, CSS (Frontend design)
 FAISS (Efficient similarity search)
 
 Sentence Transformers (all-MiniLM-L6-v2) for semantic search
+
+📜 License
+
+This project is open-source under the MIT License. Feel free to use and
+modify it! 🚀
