@@ -32,6 +32,12 @@ FAISS (Efficient similarity search)
 
 Sentence Transformers (all-MiniLM-L6-v2) for semantic search
 
+**Clone the Repository**
+
+git clone https://github.com/Mazid2003/AI-Based-Content-analysis-using-NLP.git
+
+cd cupball
+
 **📜 License**
 
 This project is open-source under the MIT License. Feel free to use and
