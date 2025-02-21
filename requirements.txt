@@ -1,1 +1,36 @@
+📦 Requirements
+
+1️⃣ Python Packages
+Create a requirements.txt file with the following dependencies:
+
+flask
+sentence-transformers
+faiss-cpu
+pymupdf
+werkzeug
+gunicorn  # (For deployment)
+Install dependencies using:
+
+pip install -r requirements.txt
+
+2️⃣ Hardware Requirements (For Efficient Processing)
+RAM: Minimum 4GB (8GB+ recommended for large PDFs)
+CPU: Any modern processor (GPU not required, but speeds up processing)
+Storage: At least 500MB free space for dependencies and sample PDFs
+
+3️⃣ Software Requirements
+Python 3.8+ (Recommended: Python 3.10 or later)
+Flask (Backend framework)
+Sentence Transformers (For semantic search)
+FAISS (For efficient similarity search)
+PyMuPDF (For extracting text from PDFs)
+Any IDE (VS Code, PyCharm, or Jupyter Notebook for testing)
+
+4️⃣ Deployment Requirements (Optional)
+If deploying on Render, Railway, or Hugging Face Spaces, you'll need:
+
+✅ Gunicorn (for running Flask on production servers)
+✅ Procfile (for Heroku deployment)
+✅ requirements.txt (for dependency installation)
+
 
