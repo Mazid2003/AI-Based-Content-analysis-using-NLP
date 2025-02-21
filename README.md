@@ -36,7 +36,7 @@ Sentence Transformers (all-MiniLM-L6-v2) for semantic search
 
 git clone https://github.com/Mazid2003/AI-Based-Content-analysis-using-NLP.git
 
-cd cupball
+cd directory_name(in which the files are present)
 
 **📜 License**
 
