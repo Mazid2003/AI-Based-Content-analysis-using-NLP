@@ -38,6 +38,10 @@ git clone https://github.com/Mazid2003/AI-Based-Content-analysis-using-NLP.git
 
 cd directory_name(in which the files are present)
 
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
 **📜 License**
 
 This project is open-source under the MIT License. Feel free to use and
