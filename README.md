@@ -32,6 +32,10 @@ FAISS (Efficient similarity search)
 
 Sentence Transformers (all-MiniLM-L6-v2) for semantic search
 
+**Model Architecture**
+
+[mazid_001.pptx](https://github.com/user-attachments/files/19659834/mazid_001.pptx)
+
 **Main Page:**
 
 ![output](https://github.com/user-attachments/assets/5004fe69-58dd-4d42-b0c7-c01209445668)
