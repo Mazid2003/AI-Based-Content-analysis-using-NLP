@@ -34,7 +34,8 @@ Sentence Transformers (all-MiniLM-L6-v2) for semantic search
 
 **Model Architecture**
 
-[mazid_001.pptx](https://github.com/user-attachments/files/19659834/mazid_001.pptx)
+![image](https://github.com/user-attachments/assets/4b0dfdf2-215f-46f4-9fbe-70f07efd16c4)
+
 
 **Main Page:**
 
