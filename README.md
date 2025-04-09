@@ -32,10 +32,11 @@ FAISS (Efficient similarity search)
 
 Sentence Transformers (all-MiniLM-L6-v2) for semantic search
 
-Main Page:
+**Main Page:**
+
 ![output](https://github.com/user-attachments/assets/5004fe69-58dd-4d42-b0c7-c01209445668)
 
-Result page:
+**Result page:**
 
 ![out1](https://github.com/user-attachments/assets/ba5504e9-b218-45a4-9ab8-537e3a4b4788)
 
