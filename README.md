@@ -64,5 +64,5 @@ modify it! 🚀
 
 **Mohammad Mazid**
 
-Linkedin: https://www.linkedin.com/in/mohammadmazid
+[Linkedin](https://www.linkedin.com/in/mohammadmazid)
 
